@@ -145,7 +145,7 @@ def main():
         else:
             st.sidebar.write("Acesso restrito ao administrador")
 
-        st.title("Assistente de Licitações BidsIA")
+        st.title("Assistente de Licitações Eventia")
 
         # Upload de PDFs
         uploaded_files = st.file_uploader(
